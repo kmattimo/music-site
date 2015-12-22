@@ -16,6 +16,6 @@ Download it: [MP3][mp3-link] and [FLAC][flac-link]
 
 (right click->"Save As" if your browser tries to play it)
 
-[youtube-link]: https://www.youtube.com/watch?v={{video-id}}
+[youtube-link]: https://www.youtube.com/watch?v={{page.video-id}}
 [flac-link]:   https://dl.kylemattimore.com/music/2015/1564/Kyle Mattimore - One Five Six Four.flac
 [mp3-link]: https://dl.kylemattimore.com/music/2015/1564/Kyle Mattimore - One Five Six Four.mp3
