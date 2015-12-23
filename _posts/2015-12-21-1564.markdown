@@ -1,21 +1,16 @@
 ---
-layout: post
+layout: song
 title:  "One Five Six Four"
 date:   2015-12-21 17:50:00 -0500
 categories: looping
 permalink: "1564"
 video-id: 5Mb3aG5hG6k
+flac-path: "/music/2015/1564/Kyle Mattimore - One Five Six Four.flac"
+mp3-path: "/music/2015/1564/Kyle Mattimore - One Five Six Four.mp3"
+sc-link: "https://soundcloud.com/kyle-mattimore/one-five-six-four-i-v-vi-iv"
 ---
-Live loop mashup of some songs using the same 'hitmaker' chord progression, I-V-vi-IV.
-Had the idea since high school when we would play I'm Yours and Soul Sister at the same time... 
+Live loop mashup of some songs using the famous 'hitmaker' chord progression, I-V-vi-IV.
 
-{% include youtube-embed.html param=page.video-id %}
-[Youtube Video][youtube-link]
+I've the idea since high school when we would play I'm Yours and Soul Sister at the same time. Check out [this page][wikipage] for a mind-boggling amount of songs that use this chord progression 
 
-Download it: [MP3][mp3-link] and [FLAC][flac-link]
-
-(right click->"Save As" if your browser tries to play it)
-
-[youtube-link]: https://www.youtube.com/watch?v={{page.video-id}}
-[flac-link]:   https://dl.kylemattimore.com/music/2015/1564/Kyle Mattimore - One Five Six Four.flac
-[mp3-link]: https://dl.kylemattimore.com/music/2015/1564/Kyle Mattimore - One Five Six Four.mp3
+[wikipage]:https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression
