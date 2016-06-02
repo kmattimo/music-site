@@ -11,7 +11,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
     
+    {% if param=page.video-id %}
     {% include youtube-embed.html param=page.video-id %}
+    {% endif %}
     <!-- <br>
     <a href="https://www.youtube.com/watch?v={{page.video-id}}"> YouTube Link</a>  -->
     <br>
