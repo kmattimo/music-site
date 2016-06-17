@@ -4,8 +4,8 @@ title:  "The Broken Arrow Complex - Fog"
 date:   2016-06-16 17:50:00 -0500
 categories: brokenarrow, rock, ambient, shoegaze
 permalink: "fog"
-flac-path: "/music/2016/summermind/The Broken Arrow Complex - Fog.flac"
-mp3-path: "/music/2016/summermind/The Broken Arrow Complex - Fog.mp3"
+flac-path: "/music/2016/fog/The Broken Arrow Complex - Fog.flac"
+mp3-path: "/music/2016/fog/The Broken Arrow Complex - Fog.mp3"
 sc-link: "https://soundcloud.com/thebrokenarrowcomplex/fog"
 ---
 
