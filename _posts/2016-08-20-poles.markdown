@@ -1,0 +1,12 @@
+---
+layout: song
+title:  "The Broken Arrow Complex - Poles"
+date:   2016-08-20 12:00:00 -0500
+categories: brokenarrow, rock, hip-hop
+permalink: "poles"
+flac-path: "/music/2016/poles/The Broken Arrow Complex - Poles.flac"
+mp3-path: "/music/2016/poles/The Broken Arrow Complex - Poles.mp3"
+sc-link: "https://soundcloud.com/thebrokenarrowcomplex/poles"
+---
+
+Poles
