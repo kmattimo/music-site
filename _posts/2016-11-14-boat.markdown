@@ -1,0 +1,12 @@
+---
+layout: song
+title:  "The Broken Arrow Complex - Dancing on a Boat"
+date:   2016-11-14 12:00:00 -0500
+categories: brokenarrow, pop, rock, ambient,
+permalink: "boat"
+flac-path: "/music/2016/boat/The Broken Arrow Complex - Dancing on a Boat.flac"
+mp3-path: "/music/2016/boat/The Broken Arrow Complex - Dancing on a Boat.mp3"
+sc-link: "https://soundcloud.com/thebrokenarrowcomplex/dancing-on-a-boat"
+---
+
+Dancing on a Boat
