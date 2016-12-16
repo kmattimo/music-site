@@ -11,21 +11,31 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
     
-    {% if param=page.video-id %}
+    {% if page.video-id %}
     {% include youtube-embed.html param=page.video-id %}
+      <br>
+      <a href="https://www.youtube.com/watch?v={{page.video-id}}"> YouTube Link</a>  
+      <br>    
     {% endif %}
-    <!-- <br>
-    <a href="https://www.youtube.com/watch?v={{page.video-id}}"> YouTube Link</a>  -->
-    <br>
+  <br>
+
     
     {% if page.sc-link %}
       <a href="{{page.sc-link}}">soundcloud</a>
       <br>
     {% endif %}
     
-    Download it: 
-    <a href="{{site.basedl}}{{page.mp3-path}}">MP3</a> or 
-    <a href="{{site.basedl}}{{page.flac-path}}">FLAC</a>
+    {% if page.mp3-path || page.flac-path %}
+      Download it: 
+    {% endif %}
+      
+    {% if page.mp3-path %}
+      <a href="{{site.basedl}}{{page.mp3-path}}">MP3</a> or 
+    {% endif %}
+    
+    {% if page.flac-path %}
+      <a href="{{site.basedl}}{{page.flac-path}}">FLAC</a>
+    {% endif %}
     
 
   </div>

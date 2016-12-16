@@ -4,10 +4,11 @@ title:  "The Broken Arrow Complex - Rounds"
 date:   2016-11-13 12:00:00 -0500
 categories: brokenarrow, acoustic, live, mellow
 permalink: "rounds"
+video-id: 0jBgfBtestc
+
 flac-path: "/music/2016/rounds/The Broken Arrow Complex - Rounds (Live).flac"
 mp3-path: "/music/2016/rounds/The Broken Arrow Complex - Rounds (Live).mp3"
 sc-link: "https://soundcloud.com/thebrokenarrowcomplex/rounds"
 ---
 
 Rounds (Live!)
-<a href="https://youtu.be/0jBgfBtestc" target="_blank">watch on youtube</a>
