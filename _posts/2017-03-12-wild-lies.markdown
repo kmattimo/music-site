@@ -1,0 +1,12 @@
+---
+layout: song
+title:  "The Broken Arrow Complex - Wild Lies"
+date:   2017-03-12 13:00:00 -0500
+categories: brokenarrow, rock, ambient
+permalink: "wildlies"
+flac-path: "/music/2017/wildlies/The Broken Arrow Complex - Wild Lies.flac"
+mp3-path: "/music/2017/wildlies/The Broken Arrow Complex - Wild Lies.mp3"
+sc-link: "https://soundcloud.com/thebrokenarrowcomplex/wild-lies"
+---
+
+Wild Lies
